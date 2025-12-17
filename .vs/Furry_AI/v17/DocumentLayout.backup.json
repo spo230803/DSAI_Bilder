@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "R:\\Giorgio\\VisualBasic\\Furry_AI\\Furry_AI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A5BEED5-8991-4592-AD96-D6570F5CE602}|Furry_AI.vbproj|r:\\giorgio\\visualbasic\\furry_ai\\furry_ai\\index.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{2A5BEED5-8991-4592-AD96-D6570F5CE602}|Furry_AI.vbproj|solutionrelative:index.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A5BEED5-8991-4592-AD96-D6570F5CE602}|Furry_AI.vbproj|r:\\giorgio\\visualbasic\\furry_ai\\furry_ai\\index.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{2A5BEED5-8991-4592-AD96-D6570F5CE602}|Furry_AI.vbproj|solutionrelative:index.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A5BEED5-8991-4592-AD96-D6570F5CE602}|Furry_AI.vbproj|r:\\giorgio\\visualbasic\\furry_ai\\furry_ai\\ai.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{2A5BEED5-8991-4592-AD96-D6570F5CE602}|Furry_AI.vbproj|solutionrelative:ai.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AI.vb",
+              "DocumentMoniker": "R:\\Giorgio\\VisualBasic\\Furry_AI\\Furry_AI\\AI.vb",
+              "RelativeDocumentMoniker": "AI.vb",
+              "ToolTip": "R:\\Giorgio\\VisualBasic\\Furry_AI\\Furry_AI\\AI.vb",
+              "RelativeToolTip": "AI.vb",
+              "ViewState": "AgIAAKsAAAAAAAAAAIA0wLgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-28T21:33:58.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "INDEX.vb",
+              "DocumentMoniker": "R:\\Giorgio\\VisualBasic\\Furry_AI\\Furry_AI\\INDEX.vb",
+              "RelativeDocumentMoniker": "INDEX.vb",
+              "ToolTip": "R:\\Giorgio\\VisualBasic\\Furry_AI\\Furry_AI\\INDEX.vb",
+              "RelativeToolTip": "INDEX.vb",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAEYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-28T21:57:44.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "INDEX.vb [Progettazione]",
+              "DocumentMoniker": "R:\\Giorgio\\VisualBasic\\Furry_AI\\Furry_AI\\INDEX.vb",
+              "RelativeDocumentMoniker": "INDEX.vb",
+              "ToolTip": "R:\\Giorgio\\VisualBasic\\Furry_AI\\Furry_AI\\INDEX.vb [Progettazione]",
+              "RelativeToolTip": "INDEX.vb [Progettazione]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-28T19:10:39.113Z",
+              "EditorCaption": " [Progettazione]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

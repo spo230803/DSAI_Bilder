@@ -1,0 +1,108 @@
+R:\Giorgio\VisualBasic\Furry_AI\Furry_AI\bin\Debug\net8.0-windows\Furry_AI.exe
+R:\Giorgio\VisualBasic\Furry_AI\Furry_AI\bin\Debug\net8.0-windows\Furry_AI.deps.json
+R:\Giorgio\VisualBasic\Furry_AI\Furry_AI\bin\Debug\net8.0-windows\Furry_AI.runtimeconfig.json
+R:\Giorgio\VisualBasic\Furry_AI\Furry_AI\bin\Debug\net8.0-windows\Furry_AI.dll
+R:\Giorgio\VisualBasic\Furry_AI\Furry_AI\bin\Debug\net8.0-windows\Furry_AI.pdb
+R:\Giorgio\VisualBasic\Furry_AI\Furry_AI\obj\Debug\net8.0-windows\Furry_AI.vbproj.GenerateResource.cache
+R:\Giorgio\VisualBasic\Furry_AI\Furry_AI\obj\Debug\net8.0-windows\Furry_AI.GeneratedMSBuildEditorConfig.editorconfig
+R:\Giorgio\VisualBasic\Furry_AI\Furry_AI\obj\Debug\net8.0-windows\Furry_AI.AssemblyInfoInputs.cache
+R:\Giorgio\VisualBasic\Furry_AI\Furry_AI\obj\Debug\net8.0-windows\Furry_AI.AssemblyInfo.vb
+R:\Giorgio\VisualBasic\Furry_AI\Furry_AI\obj\Debug\net8.0-windows\Furry_AI.vbproj.CoreCompileInputs.cache
+R:\Giorgio\VisualBasic\Furry_AI\Furry_AI\obj\Debug\net8.0-windows\Furry_AI.dll
+R:\Giorgio\VisualBasic\Furry_AI\Furry_AI\obj\Debug\net8.0-windows\refint\Furry_AI.dll
+R:\Giorgio\VisualBasic\Furry_AI\Furry_AI\obj\Debug\net8.0-windows\Furry_AI.pdb
+R:\Giorgio\VisualBasic\Furry_AI\Furry_AI\obj\Debug\net8.0-windows\Furry_AI.genruntimeconfig.cache
+R:\Giorgio\VisualBasic\Furry_AI\Furry_AI\obj\Debug\net8.0-windows\ref\Furry_AI.dll
+R:\Giorgio\VisualBasic\Furry_AI\Furry_AI\obj\Debug\net8.0-windows\Furry_AI.vbproj.AssemblyReference.cache
+R:\Giorgio\VisualBasic\Furry_AI\Furry_AI\bin\Debug\net8.0-windows\Accord.dll.config
+R:\Giorgio\VisualBasic\Furry_AI\Furry_AI\bin\Debug\net8.0-windows\Aardvark.Base.dll
+R:\Giorgio\VisualBasic\Furry_AI\Furry_AI\bin\Debug\net8.0-windows\Aardvark.Base.Telemetry.dll
+R:\Giorgio\VisualBasic\Furry_AI\Furry_AI\bin\Debug\net8.0-windows\Accord.dll
+R:\Giorgio\VisualBasic\Furry_AI\Furry_AI\bin\Debug\net8.0-windows\Accord.Imaging.dll
+R:\Giorgio\VisualBasic\Furry_AI\Furry_AI\bin\Debug\net8.0-windows\Accord.MachineLearning.dll
+R:\Giorgio\VisualBasic\Furry_AI\Furry_AI\bin\Debug\net8.0-windows\Accord.Math.Core.dll
+R:\Giorgio\VisualBasic\Furry_AI\Furry_AI\bin\Debug\net8.0-windows\Accord.Math.dll
+R:\Giorgio\VisualBasic\Furry_AI\Furry_AI\bin\Debug\net8.0-windows\Accord.Statistics.dll
+R:\Giorgio\VisualBasic\Furry_AI\Furry_AI\bin\Debug\net8.0-windows\Accord.Video.dll
+R:\Giorgio\VisualBasic\Furry_AI\Furry_AI\bin\Debug\net8.0-windows\Accord.Vision.dll
+R:\Giorgio\VisualBasic\Furry_AI\Furry_AI\bin\Debug\net8.0-windows\OpenCvSharp.dll
+R:\Giorgio\VisualBasic\Furry_AI\Furry_AI\bin\Debug\net8.0-windows\SingleFileExtractor.Core.dll
+R:\Giorgio\VisualBasic\Furry_AI\Furry_AI\bin\Debug\net8.0-windows\runtimes\win-x64\native\OpenCvSharpExtern.dll
+R:\Giorgio\VisualBasic\Furry_AI\Furry_AI\bin\Debug\net8.0-windows\runtimes\win-x64\native\opencv_videoio_ffmpeg4100_64.dll
+R:\Giorgio\VisualBasic\Furry_AI\Furry_AI\bin\Debug\net8.0-windows\runtimes\win-x86\native\OpenCvSharpExtern.dll
+R:\Giorgio\VisualBasic\Furry_AI\Furry_AI\bin\Debug\net8.0-windows\runtimes\win-x86\native\opencv_videoio_ffmpeg4100.dll
+R:\Giorgio\VisualBasic\Furry_AI\Furry_AI\obj\Debug\net8.0-windows\Furry_AI.vbproj.Up2Date
+R:\Giorgio\VisualBasic\Furry_AI\Furry_AI\obj\Debug\net8.0-windows\Furry_AI.INDEX.resources
+R:\Giorgio\VisualBasic\Furry_AI\Furry_AI\obj\Debug\net8.0-windows\Furry_AI.sourcelink.json
+D:\VisualBasic\Furry_IA\bin\Debug\net8.0-windows\Furry_AI.exe
+D:\VisualBasic\Furry_IA\bin\Debug\net8.0-windows\Accord.dll.config
+D:\VisualBasic\Furry_IA\bin\Debug\net8.0-windows\Furry_AI.deps.json
+D:\VisualBasic\Furry_IA\bin\Debug\net8.0-windows\Furry_AI.runtimeconfig.json
+D:\VisualBasic\Furry_IA\bin\Debug\net8.0-windows\Furry_AI.dll
+D:\VisualBasic\Furry_IA\bin\Debug\net8.0-windows\Furry_AI.pdb
+D:\VisualBasic\Furry_IA\bin\Debug\net8.0-windows\Aardvark.Base.dll
+D:\VisualBasic\Furry_IA\bin\Debug\net8.0-windows\Aardvark.Base.Telemetry.dll
+D:\VisualBasic\Furry_IA\bin\Debug\net8.0-windows\Accord.dll
+D:\VisualBasic\Furry_IA\bin\Debug\net8.0-windows\Accord.Imaging.dll
+D:\VisualBasic\Furry_IA\bin\Debug\net8.0-windows\Accord.MachineLearning.dll
+D:\VisualBasic\Furry_IA\bin\Debug\net8.0-windows\Accord.Math.Core.dll
+D:\VisualBasic\Furry_IA\bin\Debug\net8.0-windows\Accord.Math.dll
+D:\VisualBasic\Furry_IA\bin\Debug\net8.0-windows\Accord.Statistics.dll
+D:\VisualBasic\Furry_IA\bin\Debug\net8.0-windows\Accord.Video.dll
+D:\VisualBasic\Furry_IA\bin\Debug\net8.0-windows\Accord.Vision.dll
+D:\VisualBasic\Furry_IA\bin\Debug\net8.0-windows\OpenCvSharp.dll
+D:\VisualBasic\Furry_IA\bin\Debug\net8.0-windows\SingleFileExtractor.Core.dll
+D:\VisualBasic\Furry_IA\bin\Debug\net8.0-windows\runtimes\win-x64\native\OpenCvSharpExtern.dll
+D:\VisualBasic\Furry_IA\bin\Debug\net8.0-windows\runtimes\win-x64\native\opencv_videoio_ffmpeg4100_64.dll
+D:\VisualBasic\Furry_IA\bin\Debug\net8.0-windows\runtimes\win-x86\native\OpenCvSharpExtern.dll
+D:\VisualBasic\Furry_IA\bin\Debug\net8.0-windows\runtimes\win-x86\native\opencv_videoio_ffmpeg4100.dll
+D:\VisualBasic\Furry_IA\obj\Debug\net8.0-windows\Furry_AI.vbproj.AssemblyReference.cache
+D:\VisualBasic\Furry_IA\obj\Debug\net8.0-windows\Furry_AI.INDEX.resources
+D:\VisualBasic\Furry_IA\obj\Debug\net8.0-windows\Furry_AI.vbproj.GenerateResource.cache
+D:\VisualBasic\Furry_IA\obj\Debug\net8.0-windows\Furry_AI.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualBasic\Furry_IA\obj\Debug\net8.0-windows\Furry_AI.AssemblyInfoInputs.cache
+D:\VisualBasic\Furry_IA\obj\Debug\net8.0-windows\Furry_AI.AssemblyInfo.vb
+D:\VisualBasic\Furry_IA\obj\Debug\net8.0-windows\Furry_AI.vbproj.CoreCompileInputs.cache
+D:\VisualBasic\Furry_IA\obj\Debug\net8.0-windows\Furry_AI.sourcelink.json
+D:\VisualBasic\Furry_IA\obj\Debug\net8.0-windows\Furry_AI.vbproj.Up2Date
+D:\VisualBasic\Furry_IA\obj\Debug\net8.0-windows\Furry_AI.dll
+D:\VisualBasic\Furry_IA\obj\Debug\net8.0-windows\refint\Furry_AI.dll
+D:\VisualBasic\Furry_IA\obj\Debug\net8.0-windows\Furry_AI.pdb
+D:\VisualBasic\Furry_IA\obj\Debug\net8.0-windows\Furry_AI.genruntimeconfig.cache
+D:\VisualBasic\Furry_IA\obj\Debug\net8.0-windows\ref\Furry_AI.dll
+C:\Users\Studente\OneDrive - HTL Spengergasse\Dokumente\5_Semester\DSAI\Presenta_ClasificaFoto_IA\bin\Debug\net8.0-windows\Furry_AI.exe
+C:\Users\Studente\OneDrive - HTL Spengergasse\Dokumente\5_Semester\DSAI\Presenta_ClasificaFoto_IA\bin\Debug\net8.0-windows\Accord.dll.config
+C:\Users\Studente\OneDrive - HTL Spengergasse\Dokumente\5_Semester\DSAI\Presenta_ClasificaFoto_IA\bin\Debug\net8.0-windows\Furry_AI.deps.json
+C:\Users\Studente\OneDrive - HTL Spengergasse\Dokumente\5_Semester\DSAI\Presenta_ClasificaFoto_IA\bin\Debug\net8.0-windows\Furry_AI.runtimeconfig.json
+C:\Users\Studente\OneDrive - HTL Spengergasse\Dokumente\5_Semester\DSAI\Presenta_ClasificaFoto_IA\bin\Debug\net8.0-windows\Furry_AI.dll
+C:\Users\Studente\OneDrive - HTL Spengergasse\Dokumente\5_Semester\DSAI\Presenta_ClasificaFoto_IA\bin\Debug\net8.0-windows\Furry_AI.pdb
+C:\Users\Studente\OneDrive - HTL Spengergasse\Dokumente\5_Semester\DSAI\Presenta_ClasificaFoto_IA\bin\Debug\net8.0-windows\Aardvark.Base.dll
+C:\Users\Studente\OneDrive - HTL Spengergasse\Dokumente\5_Semester\DSAI\Presenta_ClasificaFoto_IA\bin\Debug\net8.0-windows\Aardvark.Base.Telemetry.dll
+C:\Users\Studente\OneDrive - HTL Spengergasse\Dokumente\5_Semester\DSAI\Presenta_ClasificaFoto_IA\bin\Debug\net8.0-windows\Accord.dll
+C:\Users\Studente\OneDrive - HTL Spengergasse\Dokumente\5_Semester\DSAI\Presenta_ClasificaFoto_IA\bin\Debug\net8.0-windows\Accord.Imaging.dll
+C:\Users\Studente\OneDrive - HTL Spengergasse\Dokumente\5_Semester\DSAI\Presenta_ClasificaFoto_IA\bin\Debug\net8.0-windows\Accord.MachineLearning.dll
+C:\Users\Studente\OneDrive - HTL Spengergasse\Dokumente\5_Semester\DSAI\Presenta_ClasificaFoto_IA\bin\Debug\net8.0-windows\Accord.Math.Core.dll
+C:\Users\Studente\OneDrive - HTL Spengergasse\Dokumente\5_Semester\DSAI\Presenta_ClasificaFoto_IA\bin\Debug\net8.0-windows\Accord.Math.dll
+C:\Users\Studente\OneDrive - HTL Spengergasse\Dokumente\5_Semester\DSAI\Presenta_ClasificaFoto_IA\bin\Debug\net8.0-windows\Accord.Statistics.dll
+C:\Users\Studente\OneDrive - HTL Spengergasse\Dokumente\5_Semester\DSAI\Presenta_ClasificaFoto_IA\bin\Debug\net8.0-windows\Accord.Video.dll
+C:\Users\Studente\OneDrive - HTL Spengergasse\Dokumente\5_Semester\DSAI\Presenta_ClasificaFoto_IA\bin\Debug\net8.0-windows\Accord.Vision.dll
+C:\Users\Studente\OneDrive - HTL Spengergasse\Dokumente\5_Semester\DSAI\Presenta_ClasificaFoto_IA\bin\Debug\net8.0-windows\OpenCvSharp.dll
+C:\Users\Studente\OneDrive - HTL Spengergasse\Dokumente\5_Semester\DSAI\Presenta_ClasificaFoto_IA\bin\Debug\net8.0-windows\SingleFileExtractor.Core.dll
+C:\Users\Studente\OneDrive - HTL Spengergasse\Dokumente\5_Semester\DSAI\Presenta_ClasificaFoto_IA\bin\Debug\net8.0-windows\runtimes\win-x64\native\OpenCvSharpExtern.dll
+C:\Users\Studente\OneDrive - HTL Spengergasse\Dokumente\5_Semester\DSAI\Presenta_ClasificaFoto_IA\bin\Debug\net8.0-windows\runtimes\win-x64\native\opencv_videoio_ffmpeg4100_64.dll
+C:\Users\Studente\OneDrive - HTL Spengergasse\Dokumente\5_Semester\DSAI\Presenta_ClasificaFoto_IA\bin\Debug\net8.0-windows\runtimes\win-x86\native\OpenCvSharpExtern.dll
+C:\Users\Studente\OneDrive - HTL Spengergasse\Dokumente\5_Semester\DSAI\Presenta_ClasificaFoto_IA\bin\Debug\net8.0-windows\runtimes\win-x86\native\opencv_videoio_ffmpeg4100.dll
+C:\Users\Studente\OneDrive - HTL Spengergasse\Dokumente\5_Semester\DSAI\Presenta_ClasificaFoto_IA\obj\Debug\net8.0-windows\Furry_AI.vbproj.AssemblyReference.cache
+C:\Users\Studente\OneDrive - HTL Spengergasse\Dokumente\5_Semester\DSAI\Presenta_ClasificaFoto_IA\obj\Debug\net8.0-windows\Furry_AI.INDEX.resources
+C:\Users\Studente\OneDrive - HTL Spengergasse\Dokumente\5_Semester\DSAI\Presenta_ClasificaFoto_IA\obj\Debug\net8.0-windows\Furry_AI.vbproj.GenerateResource.cache
+C:\Users\Studente\OneDrive - HTL Spengergasse\Dokumente\5_Semester\DSAI\Presenta_ClasificaFoto_IA\obj\Debug\net8.0-windows\Furry_AI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Studente\OneDrive - HTL Spengergasse\Dokumente\5_Semester\DSAI\Presenta_ClasificaFoto_IA\obj\Debug\net8.0-windows\Furry_AI.AssemblyInfoInputs.cache
+C:\Users\Studente\OneDrive - HTL Spengergasse\Dokumente\5_Semester\DSAI\Presenta_ClasificaFoto_IA\obj\Debug\net8.0-windows\Furry_AI.AssemblyInfo.vb
+C:\Users\Studente\OneDrive - HTL Spengergasse\Dokumente\5_Semester\DSAI\Presenta_ClasificaFoto_IA\obj\Debug\net8.0-windows\Furry_AI.vbproj.CoreCompileInputs.cache
+C:\Users\Studente\OneDrive - HTL Spengergasse\Dokumente\5_Semester\DSAI\Presenta_ClasificaFoto_IA\obj\Debug\net8.0-windows\Furry_AI.sourcelink.json
+C:\Users\Studente\OneDrive - HTL Spengergasse\Dokumente\5_Semester\DSAI\Presenta_ClasificaFoto_IA\obj\Debug\net8.0-windows\Furry_AI.vbproj.Up2Date
+C:\Users\Studente\OneDrive - HTL Spengergasse\Dokumente\5_Semester\DSAI\Presenta_ClasificaFoto_IA\obj\Debug\net8.0-windows\Furry_AI.dll
+C:\Users\Studente\OneDrive - HTL Spengergasse\Dokumente\5_Semester\DSAI\Presenta_ClasificaFoto_IA\obj\Debug\net8.0-windows\refint\Furry_AI.dll
+C:\Users\Studente\OneDrive - HTL Spengergasse\Dokumente\5_Semester\DSAI\Presenta_ClasificaFoto_IA\obj\Debug\net8.0-windows\Furry_AI.pdb
+C:\Users\Studente\OneDrive - HTL Spengergasse\Dokumente\5_Semester\DSAI\Presenta_ClasificaFoto_IA\obj\Debug\net8.0-windows\Furry_AI.genruntimeconfig.cache
+C:\Users\Studente\OneDrive - HTL Spengergasse\Dokumente\5_Semester\DSAI\Presenta_ClasificaFoto_IA\obj\Debug\net8.0-windows\ref\Furry_AI.dll

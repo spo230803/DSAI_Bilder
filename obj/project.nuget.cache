@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "uryU/PLPn94=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Studente\\OneDrive - HTL Spengergasse\\Dokumente\\5_Semester\\DSAI\\Presenta_ClasificaFoto_IA\\Furry_AI.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Studente\\.nuget\\packages\\aardvark.base\\5.3.8\\aardvark.base.5.3.8.nupkg.sha512",
+    "C:\\Users\\Studente\\.nuget\\packages\\aardvark.base.telemetry\\5.3.8\\aardvark.base.telemetry.5.3.8.nupkg.sha512",
+    "C:\\Users\\Studente\\.nuget\\packages\\accord\\3.8.0\\accord.3.8.0.nupkg.sha512",
+    "C:\\Users\\Studente\\.nuget\\packages\\accord.imaging\\3.8.0\\accord.imaging.3.8.0.nupkg.sha512",
+    "C:\\Users\\Studente\\.nuget\\packages\\accord.machinelearning\\3.8.0\\accord.machinelearning.3.8.0.nupkg.sha512",
+    "C:\\Users\\Studente\\.nuget\\packages\\accord.math\\3.8.0\\accord.math.3.8.0.nupkg.sha512",
+    "C:\\Users\\Studente\\.nuget\\packages\\accord.statistics\\3.8.0\\accord.statistics.3.8.0.nupkg.sha512",
+    "C:\\Users\\Studente\\.nuget\\packages\\accord.video\\3.8.0\\accord.video.3.8.0.nupkg.sha512",
+    "C:\\Users\\Studente\\.nuget\\packages\\accord.vision\\3.8.0\\accord.vision.3.8.0.nupkg.sha512",
+    "C:\\Users\\Studente\\.nuget\\packages\\opencvsharp4\\4.10.0.20241108\\opencvsharp4.4.10.0.20241108.nupkg.sha512",
+    "C:\\Users\\Studente\\.nuget\\packages\\opencvsharp4.runtime.win\\4.10.0.20241108\\opencvsharp4.runtime.win.4.10.0.20241108.nupkg.sha512",
+    "C:\\Users\\Studente\\.nuget\\packages\\singlefileextractor.core\\2.2.1\\singlefileextractor.core.2.2.1.nupkg.sha512",
+    "C:\\Users\\Studente\\.nuget\\packages\\system.collections.immutable\\8.0.0\\system.collections.immutable.8.0.0.nupkg.sha512",
+    "C:\\Users\\Studente\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\Studente\\.nuget\\packages\\system.reflection.metadata\\8.0.0\\system.reflection.metadata.8.0.0.nupkg.sha512",
+    "C:\\Users\\Studente\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Studente\\.nuget\\packages\\system.text.json\\8.0.5\\system.text.json.8.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
