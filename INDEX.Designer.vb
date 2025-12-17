@@ -77,7 +77,7 @@ Partial Class INDEX
         ' bnt_Avvia
         ' 
         bnt_Avvia.Font = New Font("Segoe UI", 20.25F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
-        bnt_Avvia.Location = New Point(96, 449)
+        bnt_Avvia.Location = New Point(97, 475)
         bnt_Avvia.Margin = New Padding(4)
         bnt_Avvia.Name = "bnt_Avvia"
         bnt_Avvia.Size = New Size(454, 81)
@@ -87,12 +87,13 @@ Partial Class INDEX
         ' 
         ' tb_debug
         ' 
-        tb_debug.Location = New Point(671, 34)
+        tb_debug.Location = New Point(675, 41)
         tb_debug.Margin = New Padding(4)
         tb_debug.Multiline = True
         tb_debug.Name = "tb_debug"
+        tb_debug.ReadOnly = True
         tb_debug.ScrollBars = ScrollBars.Vertical
-        tb_debug.Size = New Size(456, 496)
+        tb_debug.Size = New Size(456, 516)
         tb_debug.TabIndex = 1
         ' 
         ' l_desDebug
@@ -101,7 +102,7 @@ Partial Class INDEX
         l_desDebug.Location = New Point(869, 9)
         l_desDebug.Margin = New Padding(4, 0, 4, 0)
         l_desDebug.Name = "l_desDebug"
-        l_desDebug.Size = New Size(71, 28)
+        l_desDebug.Size = New Size(56, 21)
         l_desDebug.TabIndex = 2
         l_desDebug.Text = "Debug"
         ' 
@@ -109,9 +110,9 @@ Partial Class INDEX
         ' 
         Label3.AutoSize = True
         Label3.ForeColor = Color.Blue
-        Label3.Location = New Point(7, 534)
+        Label3.Location = New Point(7, 560)
         Label3.Name = "Label3"
-        Label3.Size = New Size(621, 28)
+        Label3.Size = New Size(495, 21)
         Label3.TabIndex = 6
         Label3.Text = "NOTA : Per riconfigurare la Inteligenza Cancelalre i file di Impostazione"
         ' 
@@ -123,11 +124,11 @@ Partial Class INDEX
         ' 
         Label5.AutoSize = True
         Label5.ForeColor = Color.Red
-        Label5.Location = New Point(811, 534)
+        Label5.Location = New Point(810, 561)
         Label5.Name = "Label5"
-        Label5.Size = New Size(227, 28)
+        Label5.Size = New Size(183, 21)
         Label5.TabIndex = 8
-        Label5.Text = "Ver 1.1.1 del 2025-12-17"
+        Label5.Text = "Ver 1.1.2 del 2025-12-17"
         ' 
         ' TabConteiner
         ' 
@@ -137,7 +138,7 @@ Partial Class INDEX
         TabConteiner.Location = New Point(7, 9)
         TabConteiner.Name = "TabConteiner"
         TabConteiner.SelectedIndex = 0
-        TabConteiner.Size = New Size(657, 265)
+        TabConteiner.Size = New Size(657, 290)
         TabConteiner.TabIndex = 13
         ' 
         ' TabGiaAlenato
@@ -148,19 +149,19 @@ Partial Class INDEX
         TabGiaAlenato.Controls.Add(tb_setFile_Bin)
         TabGiaAlenato.Controls.Add(bnt_setCartella_bin)
         TabGiaAlenato.Controls.Add(Label2)
-        TabGiaAlenato.Location = New Point(4, 37)
+        TabGiaAlenato.Location = New Point(4, 30)
         TabGiaAlenato.Name = "TabGiaAlenato"
         TabGiaAlenato.Padding = New Padding(3)
-        TabGiaAlenato.Size = New Size(649, 224)
+        TabGiaAlenato.Size = New Size(649, 256)
         TabGiaAlenato.TabIndex = 0
         TabGiaAlenato.Text = "Gia Alenato"
         TabGiaAlenato.UseVisualStyleBackColor = True
         ' 
         ' bnt_setFiel_Categorie
         ' 
-        bnt_setFiel_Categorie.Location = New Point(528, 84)
+        bnt_setFiel_Categorie.Location = New Point(528, 140)
         bnt_setFiel_Categorie.Name = "bnt_setFiel_Categorie"
-        bnt_setFiel_Categorie.Size = New Size(99, 27)
+        bnt_setFiel_Categorie.Size = New Size(99, 38)
         bnt_setFiel_Categorie.TabIndex = 10
         bnt_setFiel_Categorie.Text = "Set File"
         bnt_setFiel_Categorie.UseVisualStyleBackColor = True
@@ -168,31 +169,31 @@ Partial Class INDEX
         ' Label4
         ' 
         Label4.AutoSize = True
-        Label4.Location = New Point(6, 87)
+        Label4.Location = New Point(6, 154)
         Label4.Name = "Label4"
-        Label4.Size = New Size(272, 28)
+        Label4.Size = New Size(215, 21)
         Label4.TabIndex = 8
         Label4.Text = "Set File elenco Categorie .txt *"
         ' 
         ' tb_setFile_Categorie
         ' 
-        tb_setFile_Categorie.Location = New Point(6, 118)
+        tb_setFile_Categorie.Location = New Point(6, 185)
         tb_setFile_Categorie.Name = "tb_setFile_Categorie"
-        tb_setFile_Categorie.Size = New Size(621, 34)
+        tb_setFile_Categorie.Size = New Size(621, 29)
         tb_setFile_Categorie.TabIndex = 7
         ' 
         ' tb_setFile_Bin
         ' 
-        tb_setFile_Bin.Location = New Point(6, 41)
+        tb_setFile_Bin.Location = New Point(6, 59)
         tb_setFile_Bin.Name = "tb_setFile_Bin"
-        tb_setFile_Bin.Size = New Size(621, 34)
+        tb_setFile_Bin.Size = New Size(621, 29)
         tb_setFile_Bin.TabIndex = 6
         ' 
         ' bnt_setCartella_bin
         ' 
         bnt_setCartella_bin.Location = New Point(528, 6)
         bnt_setCartella_bin.Name = "bnt_setCartella_bin"
-        bnt_setCartella_bin.Size = New Size(99, 29)
+        bnt_setCartella_bin.Size = New Size(99, 47)
         bnt_setCartella_bin.TabIndex = 5
         bnt_setCartella_bin.Text = "Set File"
         bnt_setCartella_bin.UseVisualStyleBackColor = True
@@ -200,9 +201,9 @@ Partial Class INDEX
         ' Label2
         ' 
         Label2.AutoSize = True
-        Label2.Location = New Point(6, 10)
+        Label2.Location = New Point(6, 28)
         Label2.Name = "Label2"
-        Label2.Size = New Size(293, 28)
+        Label2.Size = New Size(232, 21)
         Label2.TabIndex = 4
         Label2.Text = "Set File  .bin di Addestrametno *"
         ' 
@@ -220,10 +221,10 @@ Partial Class INDEX
         TabDaAlenare.Controls.Add(bnt_SetDir_Adestra)
         TabDaAlenare.Controls.Add(Label7)
         TabDaAlenare.Controls.Add(Label6)
-        TabDaAlenare.Location = New Point(4, 37)
+        TabDaAlenare.Location = New Point(4, 24)
         TabDaAlenare.Name = "TabDaAlenare"
         TabDaAlenare.Padding = New Padding(3)
-        TabDaAlenare.Size = New Size(649, 224)
+        TabDaAlenare.Size = New Size(649, 262)
         TabDaAlenare.TabIndex = 1
         TabDaAlenare.Text = "Da Alenare"
         TabDaAlenare.UseVisualStyleBackColor = True
@@ -231,81 +232,81 @@ Partial Class INDEX
         ' Label12
         ' 
         Label12.AutoSize = True
-        Label12.Location = New Point(591, 179)
+        Label12.Location = New Point(593, 217)
         Label12.Name = "Label12"
-        Label12.Size = New Size(39, 28)
+        Label12.Size = New Size(30, 21)
         Label12.TabIndex = 17
         Label12.Text = ".txt"
         ' 
         ' Label10
         ' 
         Label10.AutoSize = True
-        Label10.Location = New Point(235, 179)
+        Label10.Location = New Point(237, 217)
         Label10.Name = "Label10"
-        Label10.Size = New Size(44, 28)
+        Label10.Size = New Size(35, 21)
         Label10.TabIndex = 17
         Label10.Text = ".bin"
         ' 
         ' tb_setFile_NomeCategoria
         ' 
-        tb_setFile_NomeCategoria.Location = New Point(306, 171)
+        tb_setFile_NomeCategoria.Location = New Point(308, 209)
         tb_setFile_NomeCategoria.Name = "tb_setFile_NomeCategoria"
-        tb_setFile_NomeCategoria.Size = New Size(279, 34)
+        tb_setFile_NomeCategoria.Size = New Size(279, 29)
         tb_setFile_NomeCategoria.TabIndex = 16
         ' 
         ' tb_setFile_NomeAadestramento_BIN
         ' 
-        tb_setFile_NomeAadestramento_BIN.Location = New Point(6, 171)
+        tb_setFile_NomeAadestramento_BIN.Location = New Point(8, 209)
         tb_setFile_NomeAadestramento_BIN.Name = "tb_setFile_NomeAadestramento_BIN"
-        tb_setFile_NomeAadestramento_BIN.Size = New Size(231, 34)
+        tb_setFile_NomeAadestramento_BIN.Size = New Size(231, 29)
         tb_setFile_NomeAadestramento_BIN.TabIndex = 15
         ' 
         ' Label11
         ' 
         Label11.AutoSize = True
-        Label11.Location = New Point(306, 147)
+        Label11.Location = New Point(308, 179)
         Label11.Name = "Label11"
-        Label11.Size = New Size(191, 28)
+        Label11.Size = New Size(152, 21)
         Label11.TabIndex = 14
         Label11.Text = "Nome File Categorie"
         ' 
         ' Label9
         ' 
         Label9.AutoSize = True
-        Label9.Location = New Point(6, 147)
+        Label9.Location = New Point(8, 178)
         Label9.Name = "Label9"
-        Label9.Size = New Size(242, 28)
+        Label9.Size = New Size(192, 21)
         Label9.TabIndex = 14
         Label9.Text = "Nome File Addestramento"
         ' 
         ' tb_setDir_SalvaAlenaemnto
         ' 
-        tb_setDir_SalvaAlenaemnto.Location = New Point(3, 115)
+        tb_setDir_SalvaAlenaemnto.Location = New Point(3, 136)
         tb_setDir_SalvaAlenaemnto.Name = "tb_setDir_SalvaAlenaemnto"
-        tb_setDir_SalvaAlenaemnto.Size = New Size(623, 34)
+        tb_setDir_SalvaAlenaemnto.Size = New Size(623, 29)
         tb_setDir_SalvaAlenaemnto.TabIndex = 13
         ' 
         ' tb_DirAdestra
         ' 
-        tb_DirAdestra.Location = New Point(6, 49)
+        tb_DirAdestra.Location = New Point(9, 51)
         tb_DirAdestra.Name = "tb_DirAdestra"
-        tb_DirAdestra.Size = New Size(623, 34)
+        tb_DirAdestra.Size = New Size(623, 29)
         tb_DirAdestra.TabIndex = 13
         ' 
         ' bnt_setDir_Alenamento
         ' 
-        bnt_setDir_Alenamento.Location = New Point(527, 88)
+        bnt_setDir_Alenamento.Location = New Point(530, 91)
         bnt_setDir_Alenamento.Name = "bnt_setDir_Alenamento"
-        bnt_setDir_Alenamento.Size = New Size(99, 27)
+        bnt_setDir_Alenamento.Size = New Size(99, 39)
         bnt_setDir_Alenamento.TabIndex = 12
         bnt_setDir_Alenamento.Text = "Set Dir"
         bnt_setDir_Alenamento.UseVisualStyleBackColor = True
         ' 
         ' bnt_SetDir_Adestra
         ' 
-        bnt_SetDir_Adestra.Location = New Point(530, 14)
+        bnt_SetDir_Adestra.Location = New Point(530, 9)
         bnt_SetDir_Adestra.Name = "bnt_SetDir_Adestra"
-        bnt_SetDir_Adestra.Size = New Size(99, 27)
+        bnt_SetDir_Adestra.Size = New Size(99, 35)
         bnt_SetDir_Adestra.TabIndex = 12
         bnt_SetDir_Adestra.Text = "Set Dir"
         bnt_SetDir_Adestra.UseVisualStyleBackColor = True
@@ -313,9 +314,9 @@ Partial Class INDEX
         ' Label7
         ' 
         Label7.AutoSize = True
-        Label7.Location = New Point(6, 91)
+        Label7.Location = New Point(8, 105)
         Label7.Name = "Label7"
-        Label7.Size = New Size(378, 28)
+        Label7.Size = New Size(300, 21)
         Label7.TabIndex = 8
         Label7.Text = "Set Cartelle per Salvataggio Alenamento *"
         ' 
@@ -324,7 +325,7 @@ Partial Class INDEX
         Label6.AutoSize = True
         Label6.Location = New Point(6, 14)
         Label6.Name = "Label6"
-        Label6.Size = New Size(304, 28)
+        Label6.Size = New Size(242, 21)
         Label6.TabIndex = 8
         Label6.Text = "Set Cartelle per Addestramento  *"
         ' 
@@ -337,10 +338,10 @@ Partial Class INDEX
         TabImgCalsifica.Controls.Add(bnt_setDir_ImgDaClasificare)
         TabImgCalsifica.Controls.Add(tb_setDir_ImgDaClasifirare)
         TabImgCalsifica.Controls.Add(Label8)
-        TabImgCalsifica.Location = New Point(4, 37)
+        TabImgCalsifica.Location = New Point(4, 24)
         TabImgCalsifica.Name = "TabImgCalsifica"
         TabImgCalsifica.Padding = New Padding(3)
-        TabImgCalsifica.Size = New Size(649, 224)
+        TabImgCalsifica.Size = New Size(649, 262)
         TabImgCalsifica.TabIndex = 2
         TabImgCalsifica.Text = "Set Img da Clasificare"
         TabImgCalsifica.UseVisualStyleBackColor = True
@@ -348,32 +349,32 @@ Partial Class INDEX
         ' cb_cancellaFileOrignale
         ' 
         cb_cancellaFileOrignale.AutoSize = True
-        cb_cancellaFileOrignale.Location = New Point(3, 153)
+        cb_cancellaFileOrignale.Location = New Point(6, 198)
         cb_cancellaFileOrignale.Name = "cb_cancellaFileOrignale"
-        cb_cancellaFileOrignale.Size = New Size(417, 32)
+        cb_cancellaFileOrignale.Size = New Size(331, 25)
         cb_cancellaFileOrignale.TabIndex = 5
         cb_cancellaFileOrignale.Text = "Cancella File Orignale dopo averlo Spostato"
         cb_cancellaFileOrignale.UseVisualStyleBackColor = True
         ' 
         ' tb_setDir_Output
         ' 
-        tb_setDir_Output.Location = New Point(6, 118)
+        tb_setDir_Output.Location = New Point(6, 158)
         tb_setDir_Output.Name = "tb_setDir_Output"
-        tb_setDir_Output.Size = New Size(623, 34)
+        tb_setDir_Output.Size = New Size(623, 29)
         tb_setDir_Output.TabIndex = 4
         ' 
         ' Label13
         ' 
         Label13.AutoSize = True
-        Label13.Location = New Point(3, 88)
+        Label13.Location = New Point(3, 128)
         Label13.Name = "Label13"
-        Label13.Size = New Size(400, 28)
+        Label13.Size = New Size(317, 21)
         Label13.TabIndex = 3
         Label13.Text = "Set Cartella Output (vuoto per non spostare)"
         ' 
         ' bnt_setDir_Output
         ' 
-        bnt_setDir_Output.Location = New Point(528, 82)
+        bnt_setDir_Output.Location = New Point(528, 122)
         bnt_setDir_Output.Name = "bnt_setDir_Output"
         bnt_setDir_Output.Size = New Size(101, 32)
         bnt_setDir_Output.TabIndex = 2
@@ -384,24 +385,24 @@ Partial Class INDEX
         ' 
         bnt_setDir_ImgDaClasificare.Location = New Point(528, 10)
         bnt_setDir_ImgDaClasificare.Name = "bnt_setDir_ImgDaClasificare"
-        bnt_setDir_ImgDaClasificare.Size = New Size(101, 32)
+        bnt_setDir_ImgDaClasificare.Size = New Size(101, 47)
         bnt_setDir_ImgDaClasificare.TabIndex = 2
         bnt_setDir_ImgDaClasificare.Text = "Set Dir"
         bnt_setDir_ImgDaClasificare.UseVisualStyleBackColor = True
         ' 
         ' tb_setDir_ImgDaClasifirare
         ' 
-        tb_setDir_ImgDaClasifirare.Location = New Point(6, 47)
+        tb_setDir_ImgDaClasifirare.Location = New Point(3, 63)
         tb_setDir_ImgDaClasifirare.Name = "tb_setDir_ImgDaClasifirare"
-        tb_setDir_ImgDaClasifirare.Size = New Size(623, 34)
+        tb_setDir_ImgDaClasifirare.Size = New Size(623, 29)
         tb_setDir_ImgDaClasifirare.TabIndex = 1
         ' 
         ' Label8
         ' 
         Label8.AutoSize = True
-        Label8.Location = New Point(6, 12)
+        Label8.Location = New Point(6, 29)
         Label8.Name = "Label8"
-        Label8.Size = New Size(367, 28)
+        Label8.Size = New Size(295, 21)
         Label8.TabIndex = 0
         Label8.Text = "Set Cartella con Immagini da Clasificare *"
         ' 
@@ -415,40 +416,40 @@ Partial Class INDEX
         ' 
         ' pb_1
         ' 
-        pb_1.Location = New Point(7, 326)
+        pb_1.Location = New Point(7, 345)
         pb_1.Name = "pb_1"
         pb_1.Size = New Size(653, 23)
         pb_1.TabIndex = 15
         ' 
         ' pb_2
         ' 
-        pb_2.Location = New Point(7, 398)
+        pb_2.Location = New Point(7, 424)
         pb_2.Name = "pb_2"
         pb_2.Size = New Size(653, 23)
         pb_2.TabIndex = 15
         ' 
         ' l_desc2
         ' 
-        l_desc2.Location = New Point(7, 374)
+        l_desc2.Location = New Point(7, 394)
         l_desc2.Name = "l_desc2"
-        l_desc2.Size = New Size(653, 21)
+        l_desc2.Size = New Size(653, 26)
         l_desc2.TabIndex = 14
         l_desc2.Text = "--"
         ' 
         ' l_pb2
         ' 
-        l_pb2.Location = New Point(539, 424)
+        l_pb2.Location = New Point(539, 450)
         l_pb2.Name = "l_pb2"
-        l_pb2.Size = New Size(114, 21)
+        l_pb2.Size = New Size(114, 29)
         l_pb2.TabIndex = 16
         l_pb2.Text = "0 di 0"
         l_pb2.TextAlign = ContentAlignment.TopRight
         ' 
         ' l_pb1
         ' 
-        l_pb1.Location = New Point(539, 353)
+        l_pb1.Location = New Point(539, 372)
         l_pb1.Name = "l_pb1"
-        l_pb1.Size = New Size(114, 21)
+        l_pb1.Size = New Size(114, 25)
         l_pb1.TabIndex = 16
         l_pb1.Text = "0 di 0"
         l_pb1.TextAlign = ContentAlignment.TopRight
@@ -459,15 +460,15 @@ Partial Class INDEX
         Label1.ForeColor = Color.Blue
         Label1.Location = New Point(672, 11)
         Label1.Name = "Label1"
-        Label1.Size = New Size(158, 28)
+        Label1.Size = New Size(124, 21)
         Label1.TabIndex = 17
         Label1.Text = "* = Obbligatorio"
         ' 
         ' INDEX
         ' 
-        AutoScaleDimensions = New SizeF(11F, 28F)
+        AutoScaleDimensions = New SizeF(9F, 21F)
         AutoScaleMode = AutoScaleMode.Font
-        ClientSize = New Size(1140, 562)
+        ClientSize = New Size(1144, 598)
         Controls.Add(Label1)
         Controls.Add(l_pb1)
         Controls.Add(l_pb2)

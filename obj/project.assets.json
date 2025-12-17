@@ -824,9 +824,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Studente\\OneDrive - HTL Spengergasse\\Dokumente\\5_Semester\\DSAI\\Presenta_ClasificaFoto_IA\\Furry_AI.vbproj",
-      "projectName": "Furry_AI",
-      "projectPath": "C:\\Users\\Studente\\OneDrive - HTL Spengergasse\\Dokumente\\5_Semester\\DSAI\\Presenta_ClasificaFoto_IA\\Furry_AI.vbproj",
+      "projectUniqueName": "C:\\Users\\Studente\\OneDrive - HTL Spengergasse\\Dokumente\\5_Semester\\DSAI\\Presenta_ClasificaFoto_IA\\DSAI_Bilder.vbproj",
+      "projectName": "DSAI_Bilder",
+      "projectPath": "C:\\Users\\Studente\\OneDrive - HTL Spengergasse\\Dokumente\\5_Semester\\DSAI\\Presenta_ClasificaFoto_IA\\DSAI_Bilder.vbproj",
       "packagesPath": "C:\\Users\\Studente\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Studente\\OneDrive - HTL Spengergasse\\Dokumente\\5_Semester\\DSAI\\Presenta_ClasificaFoto_IA\\obj\\",
       "projectStyle": "PackageReference",

@@ -13,12 +13,12 @@ Option Explicit On
 
 Imports System
 Imports System.Reflection
-<Assembly: System.Reflection.AssemblyCompanyAttribute("Furry_AI"),  _
+<Assembly: System.Reflection.AssemblyCompanyAttribute("DSAI_Bilder"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
  Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d3fd774d20ebfb3de559e13c1574a0e6080d17d4"),  _
- Assembly: System.Reflection.AssemblyProductAttribute("Furry_AI"),  _
- Assembly: System.Reflection.AssemblyTitleAttribute("Furry_AI"),  _
+ Assembly: System.Reflection.AssemblyProductAttribute("DSAI_Bilder"),  _
+ Assembly: System.Reflection.AssemblyTitleAttribute("DSAI_Bilder"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _
  Assembly: System.Runtime.Versioning.TargetPlatformAttribute("Windows7.0"),  _
  Assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("Windows7.0")> 

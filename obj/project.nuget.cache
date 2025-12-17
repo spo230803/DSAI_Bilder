@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uryU/PLPn94=",
+  "dgSpecHash": "f3UI5DOAm70=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Studente\\OneDrive - HTL Spengergasse\\Dokumente\\5_Semester\\DSAI\\Presenta_ClasificaFoto_IA\\Furry_AI.vbproj",
+  "projectFilePath": "C:\\Users\\Studente\\OneDrive - HTL Spengergasse\\Dokumente\\5_Semester\\DSAI\\Presenta_ClasificaFoto_IA\\DSAI_Bilder.vbproj",
   "expectedPackageFiles": [
     "C:\\Users\\Studente\\.nuget\\packages\\aardvark.base\\5.3.8\\aardvark.base.5.3.8.nupkg.sha512",
     "C:\\Users\\Studente\\.nuget\\packages\\aardvark.base.telemetry\\5.3.8\\aardvark.base.telemetry.5.3.8.nupkg.sha512",
