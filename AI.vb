@@ -212,7 +212,11 @@ Module ImageClassifierV2
         Dim featureMatrix As Double()() = features.ToArray()
         Dim labelArray As Integer() = labels.ToArray()
 
-        knn = New KNearestNeighbors(k:=3, inputs:=featureMatrix, outputs:=labelArray) 'K=3
+        knn = New KNearestNeighbors(
+            k:=3,'Nachbarn 
+            inputs:=featureMatrix,
+            outputs:=labelArray
+        ) 'K=3
         'Dim learner As New KNearestNeighborsLearning() With {
         '.K = 3
         '}
