@@ -1,13 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Studente\\OneDrive - HTL Spengergasse\\Dokumente\\5_Semester\\DSAI\\Presenta_ClasificaFoto_IA\\",
+  "WorkspaceRootPath": "C:\\Users\\Studente\\OneDrive - HTL Spengergasse\\Dokumente\\5_Semester\\DSAI\\Presentazione\\Presenta_ClasificaFoto_IA\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2A5BEED5-8991-4592-AD96-D6570F5CE602}|DSAI_Bilder.vbproj|c:\\users\\studente\\onedrive - htl spengergasse\\dokumente\\5_semester\\dsai\\presenta_clasificafoto_ia\\ai.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{2A5BEED5-8991-4592-AD96-D6570F5CE602}|DSAI_Bilder.vbproj|solutionrelative:ai.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A5BEED5-8991-4592-AD96-D6570F5CE602}|DSAI_Bilder.vbproj|c:\\users\\studente\\onedrive - htl spengergasse\\dokumente\\5_semester\\dsai\\presenta_clasificafoto_ia\\dsai_bilder.vbproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "AbsoluteMoniker": "D:0:0:{2A5BEED5-8991-4592-AD96-D6570F5CE602}|DSAI_Bilder.vbproj|c:\\users\\studente\\onedrive - htl spengergasse\\dokumente\\5_semester\\dsai\\presentazione\\presenta_clasificafoto_ia\\dsai_bilder.vbproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{2A5BEED5-8991-4592-AD96-D6570F5CE602}|DSAI_Bilder.vbproj|solutionrelative:dsai_bilder.vbproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     }
   ],
@@ -27,26 +23,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AI.vb",
-              "DocumentMoniker": "C:\\Users\\Studente\\OneDrive - HTL Spengergasse\\Dokumente\\5_Semester\\DSAI\\Presenta_ClasificaFoto_IA\\AI.vb",
-              "RelativeDocumentMoniker": "AI.vb",
-              "ToolTip": "C:\\Users\\Studente\\OneDrive - HTL Spengergasse\\Dokumente\\5_Semester\\DSAI\\Presenta_ClasificaFoto_IA\\AI.vb",
-              "RelativeToolTip": "AI.vb",
-              "ViewState": "AgIAAJkAAACAmpmZmZkvwNYAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2025-12-17T16:59:01.382Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "DSAI_Bilder",
-              "DocumentMoniker": "C:\\Users\\Studente\\OneDrive - HTL Spengergasse\\Dokumente\\5_Semester\\DSAI\\Presenta_ClasificaFoto_IA\\DSAI_Bilder.vbproj",
+              "DocumentMoniker": "C:\\Users\\Studente\\OneDrive - HTL Spengergasse\\Dokumente\\5_Semester\\DSAI\\Presentazione\\Presenta_ClasificaFoto_IA\\DSAI_Bilder.vbproj",
               "RelativeDocumentMoniker": "DSAI_Bilder.vbproj",
-              "ToolTip": "C:\\Users\\Studente\\OneDrive - HTL Spengergasse\\Dokumente\\5_Semester\\DSAI\\Presenta_ClasificaFoto_IA\\DSAI_Bilder.vbproj",
+              "ToolTip": "C:\\Users\\Studente\\OneDrive - HTL Spengergasse\\Dokumente\\5_Semester\\DSAI\\Presentazione\\Presenta_ClasificaFoto_IA\\DSAI_Bilder.vbproj",
               "RelativeToolTip": "DSAI_Bilder.vbproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003380|",
-              "WhenOpened": "2025-12-17T16:06:14.094Z"
+              "WhenOpened": "2026-01-09T12:57:19.759Z",
+              "EditorCaption": ""
             }
           ]
         }

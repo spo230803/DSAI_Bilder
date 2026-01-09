@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Studente\\OneDrive - HTL Spengergasse\\Dokumente\\5_Semester\\DSAI\\Presenta_ClasificaFoto_IA\\DSAI_Bilder.vbproj": {}
+    "C:\\Users\\Studente\\OneDrive - HTL Spengergasse\\Dokumente\\5_Semester\\DSAI\\Presentazione\\Presenta_ClasificaFoto_IA\\DSAI_Bilder.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\Studente\\OneDrive - HTL Spengergasse\\Dokumente\\5_Semester\\DSAI\\Presenta_ClasificaFoto_IA\\DSAI_Bilder.vbproj": {
+    "C:\\Users\\Studente\\OneDrive - HTL Spengergasse\\Dokumente\\5_Semester\\DSAI\\Presentazione\\Presenta_ClasificaFoto_IA\\DSAI_Bilder.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Studente\\OneDrive - HTL Spengergasse\\Dokumente\\5_Semester\\DSAI\\Presenta_ClasificaFoto_IA\\DSAI_Bilder.vbproj",
+        "projectUniqueName": "C:\\Users\\Studente\\OneDrive - HTL Spengergasse\\Dokumente\\5_Semester\\DSAI\\Presentazione\\Presenta_ClasificaFoto_IA\\DSAI_Bilder.vbproj",
         "projectName": "DSAI_Bilder",
-        "projectPath": "C:\\Users\\Studente\\OneDrive - HTL Spengergasse\\Dokumente\\5_Semester\\DSAI\\Presenta_ClasificaFoto_IA\\DSAI_Bilder.vbproj",
+        "projectPath": "C:\\Users\\Studente\\OneDrive - HTL Spengergasse\\Dokumente\\5_Semester\\DSAI\\Presentazione\\Presenta_ClasificaFoto_IA\\DSAI_Bilder.vbproj",
         "packagesPath": "C:\\Users\\Studente\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Studente\\OneDrive - HTL Spengergasse\\Dokumente\\5_Semester\\DSAI\\Presenta_ClasificaFoto_IA\\obj\\",
+        "outputPath": "C:\\Users\\Studente\\OneDrive - HTL Spengergasse\\Dokumente\\5_Semester\\DSAI\\Presentazione\\Presenta_ClasificaFoto_IA\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

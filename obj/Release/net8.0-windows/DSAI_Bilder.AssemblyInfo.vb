@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("DSAI_Bilder"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Release"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0e6f17b68df4982f12b69511863909075fe32edf"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+28c06e4c9a1d71369d63035948463f361f217c6a"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("DSAI_Bilder"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("DSAI_Bilder"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _
