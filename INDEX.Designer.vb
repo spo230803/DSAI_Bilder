@@ -26,7 +26,6 @@ Partial Class INDEX
         bnt_Avvia = New Button()
         tb_debug = New TextBox()
         l_desDebug = New Label()
-        Label3 = New Label()
         OFD = New OpenFileDialog()
         Label5 = New Label()
         BindingSource1 = New BindingSource(components)
@@ -82,7 +81,7 @@ Partial Class INDEX
         bnt_Avvia.Name = "bnt_Avvia"
         bnt_Avvia.Size = New Size(454, 81)
         bnt_Avvia.TabIndex = 0
-        bnt_Avvia.Text = "Avvia"
+        bnt_Avvia.Text = "START"
         bnt_Avvia.UseVisualStyleBackColor = True
         ' 
         ' tb_debug
@@ -106,16 +105,6 @@ Partial Class INDEX
         l_desDebug.TabIndex = 2
         l_desDebug.Text = "Debug"
         ' 
-        ' Label3
-        ' 
-        Label3.AutoSize = True
-        Label3.ForeColor = Color.Blue
-        Label3.Location = New Point(7, 560)
-        Label3.Name = "Label3"
-        Label3.Size = New Size(495, 21)
-        Label3.TabIndex = 6
-        Label3.Text = "NOTA : Per riconfigurare la Inteligenza Cancelalre i file di Impostazione"
-        ' 
         ' OFD
         ' 
         OFD.FileName = "Open File"
@@ -128,7 +117,7 @@ Partial Class INDEX
         Label5.Name = "Label5"
         Label5.Size = New Size(183, 21)
         Label5.TabIndex = 8
-        Label5.Text = "Ver 1.1.2 del 2025-12-17"
+        Label5.Text = "Ver 1.1.3 del 2026-01-13"
         ' 
         ' TabConteiner
         ' 
@@ -154,7 +143,7 @@ Partial Class INDEX
         TabGiaAlenato.Padding = New Padding(3)
         TabGiaAlenato.Size = New Size(649, 256)
         TabGiaAlenato.TabIndex = 0
-        TabGiaAlenato.Text = "Gia Alenato"
+        TabGiaAlenato.Text = "Schon Fit"
         TabGiaAlenato.UseVisualStyleBackColor = True
         ' 
         ' bnt_setFiel_Categorie
@@ -171,9 +160,9 @@ Partial Class INDEX
         Label4.AutoSize = True
         Label4.Location = New Point(6, 154)
         Label4.Name = "Label4"
-        Label4.Size = New Size(215, 21)
+        Label4.Size = New Size(185, 21)
         Label4.TabIndex = 8
-        Label4.Text = "Set File elenco Categorie .txt *"
+        Label4.Text = "Set File List Kategori .txt *"
         ' 
         ' tb_setFile_Categorie
         ' 
@@ -203,9 +192,9 @@ Partial Class INDEX
         Label2.AutoSize = True
         Label2.Location = New Point(6, 28)
         Label2.Name = "Label2"
-        Label2.Size = New Size(232, 21)
+        Label2.Size = New Size(177, 21)
         Label2.TabIndex = 4
-        Label2.Text = "Set File  .bin di Addestrametno *"
+        Label2.Text = "Set File  .bin di Trading *"
         ' 
         ' TabDaAlenare
         ' 
@@ -221,12 +210,12 @@ Partial Class INDEX
         TabDaAlenare.Controls.Add(bnt_SetDir_Adestra)
         TabDaAlenare.Controls.Add(Label7)
         TabDaAlenare.Controls.Add(Label6)
-        TabDaAlenare.Location = New Point(4, 24)
+        TabDaAlenare.Location = New Point(4, 30)
         TabDaAlenare.Name = "TabDaAlenare"
         TabDaAlenare.Padding = New Padding(3)
-        TabDaAlenare.Size = New Size(649, 262)
+        TabDaAlenare.Size = New Size(649, 256)
         TabDaAlenare.TabIndex = 1
-        TabDaAlenare.Text = "Da Alenare"
+        TabDaAlenare.Text = "To Tradign "
         TabDaAlenare.UseVisualStyleBackColor = True
         ' 
         ' Label12
@@ -266,18 +255,18 @@ Partial Class INDEX
         Label11.AutoSize = True
         Label11.Location = New Point(308, 179)
         Label11.Name = "Label11"
-        Label11.Size = New Size(152, 21)
+        Label11.Size = New Size(112, 21)
         Label11.TabIndex = 14
-        Label11.Text = "Nome File Categorie"
+        Label11.Text = "Name File List "
         ' 
         ' Label9
         ' 
         Label9.AutoSize = True
         Label9.Location = New Point(8, 178)
         Label9.Name = "Label9"
-        Label9.Size = New Size(192, 21)
+        Label9.Size = New Size(136, 21)
         Label9.TabIndex = 14
-        Label9.Text = "Nome File Addestramento"
+        Label9.Text = "Name File Trading"
         ' 
         ' tb_setDir_SalvaAlenaemnto
         ' 
@@ -316,18 +305,18 @@ Partial Class INDEX
         Label7.AutoSize = True
         Label7.Location = New Point(8, 105)
         Label7.Name = "Label7"
-        Label7.Size = New Size(300, 21)
+        Label7.Size = New Size(124, 21)
         Label7.TabIndex = 8
-        Label7.Text = "Set Cartelle per Salvataggio Alenamento *"
+        Label7.Text = "Dir Save Tradign"
         ' 
         ' Label6
         ' 
         Label6.AutoSize = True
         Label6.Location = New Point(6, 14)
         Label6.Name = "Label6"
-        Label6.Size = New Size(242, 21)
+        Label6.Size = New Size(128, 21)
         Label6.TabIndex = 8
-        Label6.Text = "Set Cartelle per Addestramento  *"
+        Label6.Text = "Set Dir Trading  *"
         ' 
         ' TabImgCalsifica
         ' 
@@ -338,12 +327,12 @@ Partial Class INDEX
         TabImgCalsifica.Controls.Add(bnt_setDir_ImgDaClasificare)
         TabImgCalsifica.Controls.Add(tb_setDir_ImgDaClasifirare)
         TabImgCalsifica.Controls.Add(Label8)
-        TabImgCalsifica.Location = New Point(4, 24)
+        TabImgCalsifica.Location = New Point(4, 30)
         TabImgCalsifica.Name = "TabImgCalsifica"
         TabImgCalsifica.Padding = New Padding(3)
-        TabImgCalsifica.Size = New Size(649, 262)
+        TabImgCalsifica.Size = New Size(649, 256)
         TabImgCalsifica.TabIndex = 2
-        TabImgCalsifica.Text = "Set Img da Clasificare"
+        TabImgCalsifica.Text = "Set Img Input"
         TabImgCalsifica.UseVisualStyleBackColor = True
         ' 
         ' cb_cancellaFileOrignale
@@ -351,9 +340,9 @@ Partial Class INDEX
         cb_cancellaFileOrignale.AutoSize = True
         cb_cancellaFileOrignale.Location = New Point(6, 198)
         cb_cancellaFileOrignale.Name = "cb_cancellaFileOrignale"
-        cb_cancellaFileOrignale.Size = New Size(331, 25)
+        cb_cancellaFileOrignale.Size = New Size(167, 25)
         cb_cancellaFileOrignale.TabIndex = 5
-        cb_cancellaFileOrignale.Text = "Cancella File Orignale dopo averlo Spostato"
+        cb_cancellaFileOrignale.Text = "Delte Foto (in Input)"
         cb_cancellaFileOrignale.UseVisualStyleBackColor = True
         ' 
         ' tb_setDir_Output
@@ -368,9 +357,9 @@ Partial Class INDEX
         Label13.AutoSize = True
         Label13.Location = New Point(3, 128)
         Label13.Name = "Label13"
-        Label13.Size = New Size(317, 21)
+        Label13.Size = New Size(170, 21)
         Label13.TabIndex = 3
-        Label13.Text = "Set Cartella Output (vuoto per non spostare)"
+        Label13.Text = "Set Dir IMG - OUTPUT*"
         ' 
         ' bnt_setDir_Output
         ' 
@@ -402,9 +391,9 @@ Partial Class INDEX
         Label8.AutoSize = True
         Label8.Location = New Point(6, 29)
         Label8.Name = "Label8"
-        Label8.Size = New Size(295, 21)
+        Label8.Size = New Size(159, 21)
         Label8.TabIndex = 0
-        Label8.Text = "Set Cartella con Immagini da Clasificare *"
+        Label8.Text = "Set Dir IMG - INPUT *"
         ' 
         ' l_desc1
         ' 
@@ -460,9 +449,9 @@ Partial Class INDEX
         Label1.ForeColor = Color.Blue
         Label1.Location = New Point(672, 11)
         Label1.Name = "Label1"
-        Label1.Size = New Size(124, 21)
+        Label1.Size = New Size(79, 21)
         Label1.TabIndex = 17
-        Label1.Text = "* = Obbligatorio"
+        Label1.Text = "* = Pflicht"
         ' 
         ' INDEX
         ' 
@@ -478,7 +467,6 @@ Partial Class INDEX
         Controls.Add(l_desc1)
         Controls.Add(TabConteiner)
         Controls.Add(Label5)
-        Controls.Add(Label3)
         Controls.Add(l_desDebug)
         Controls.Add(tb_debug)
         Controls.Add(bnt_Avvia)
@@ -505,7 +493,6 @@ Partial Class INDEX
     Friend WithEvents bnt_Avvia As Button
     Friend WithEvents tb_debug As TextBox
     Friend WithEvents l_desDebug As Label
-    Friend WithEvents Label3 As Label
     Friend WithEvents OFD As OpenFileDialog
     Friend WithEvents Label5 As Label
     Friend WithEvents BindingSource1 As BindingSource
