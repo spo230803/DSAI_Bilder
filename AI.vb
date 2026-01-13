@@ -1,7 +1,7 @@
-﻿Imports Accord.MachineLearning
+﻿Imports System.IO
 Imports Accord.IO
+Imports Accord.MachineLearning
 Imports OpenCvSharp
-Imports System.IO
 
 Module ImageClassifierV2
 
