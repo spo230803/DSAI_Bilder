@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Studente\\OneDrive - HTL Spengergasse\\Dokumente\\5_Semester\\DSAI\\Presentazione\\Presenta_ClasificaFoto_IA\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2A5BEED5-8991-4592-AD96-D6570F5CE602}|DSAI_Bilder.vbproj|c:\\users\\studente\\onedrive - htl spengergasse\\dokumente\\5_semester\\dsai\\presentazione\\presenta_clasificafoto_ia\\index.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{2A5BEED5-8991-4592-AD96-D6570F5CE602}|DSAI_Bilder.vbproj|solutionrelative:index.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2A5BEED5-8991-4592-AD96-D6570F5CE602}|DSAI_Bilder.vbproj|c:\\users\\studente\\onedrive - htl spengergasse\\dokumente\\5_semester\\dsai\\presentazione\\presenta_clasificafoto_ia\\index.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{2A5BEED5-8991-4592-AD96-D6570F5CE602}|DSAI_Bilder.vbproj|solutionrelative:index.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
@@ -27,24 +31,37 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "INDEX.vb",
+              "DocumentMoniker": "C:\\Users\\Studente\\OneDrive - HTL Spengergasse\\Dokumente\\5_Semester\\DSAI\\Presentazione\\Presenta_ClasificaFoto_IA\\INDEX.vb",
+              "RelativeDocumentMoniker": "INDEX.vb",
+              "ToolTip": "C:\\Users\\Studente\\OneDrive - HTL Spengergasse\\Dokumente\\5_Semester\\DSAI\\Presentazione\\Presenta_ClasificaFoto_IA\\INDEX.vb",
+              "RelativeToolTip": "INDEX.vb",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAQwGsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-01-13T16:55:14.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "INDEX.vb [Progettazione]",
               "DocumentMoniker": "C:\\Users\\Studente\\OneDrive - HTL Spengergasse\\Dokumente\\5_Semester\\DSAI\\Presentazione\\Presenta_ClasificaFoto_IA\\INDEX.vb",
               "RelativeDocumentMoniker": "INDEX.vb",
               "ToolTip": "C:\\Users\\Studente\\OneDrive - HTL Spengergasse\\Dokumente\\5_Semester\\DSAI\\Presentazione\\Presenta_ClasificaFoto_IA\\INDEX.vb [Progettazione]",
               "RelativeToolTip": "INDEX.vb [Progettazione]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2026-01-13T13:39:43.745Z",
+              "WhenOpened": "2026-01-13T16:55:09.002Z",
               "EditorCaption": " [Progettazione]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "AI.vb",
               "DocumentMoniker": "C:\\Users\\Studente\\OneDrive - HTL Spengergasse\\Dokumente\\5_Semester\\DSAI\\Presentazione\\Presenta_ClasificaFoto_IA\\AI.vb",
               "RelativeDocumentMoniker": "AI.vb",
               "ToolTip": "C:\\Users\\Studente\\OneDrive - HTL Spengergasse\\Dokumente\\5_Semester\\DSAI\\Presentazione\\Presenta_ClasificaFoto_IA\\AI.vb",
               "RelativeToolTip": "AI.vb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAIsAAAAAtszMzEwWwAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2026-01-11T20:14:11.039Z",
               "EditorCaption": ""
